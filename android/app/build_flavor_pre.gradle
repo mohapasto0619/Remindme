@@ -1,0 +1,10 @@
+android {
+    productFlavors {
+        pre {
+            dimension "app"
+            applicationIdSuffix ".pre"
+            versionNameSuffix "-pre"
+            manifestPlaceholders = [appName: "remind_me pre"]
+        }
+    }
+}

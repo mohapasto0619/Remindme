@@ -1,0 +1,6 @@
+#include "Release.xcconfig"
+PRODUCT_BUNDLE_IDENTIFIER=com.meghasli.mo.remindme.pre
+FLUTTER_TARGET=lib/main_pre.dart
+FLUTTER_BUILD_NAME=pre
+APP_NAME=remind_me pre
+
